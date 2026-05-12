@@ -56,8 +56,11 @@ Socket programming finds applications in various domains, including web developm
 
 ## Result:
 socket()	Creates a new socket
+
 bind()	Binds the socket to an IP address and port number
+
 listen()	Puts the socket in listening mode for incoming connections
+
 accept()	Accepts a connection request from a client
 connect()	Connects the client socket to the server
 send()	Sends data through the socket
